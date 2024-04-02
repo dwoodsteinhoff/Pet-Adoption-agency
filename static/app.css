@@ -1,0 +1,39 @@
+.pet_list{
+    width: 400px;
+    height: 300px;
+}
+
+.img_padding{
+    margin-top: 10px;
+}
+
+.pet_bttn_container{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.add_pet_bttn{
+    width: 500px;
+}
+
+.about_bttn{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.details_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 400px;
+}
+
+.pet_details_table{
+    margin: auto;
+    width: 50%;
+}
